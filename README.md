@@ -1,4 +1,4 @@
-# \[DTF\]
+# DTF
 
 **Group members:**
 - Pernille
