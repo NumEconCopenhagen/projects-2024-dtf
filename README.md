@@ -1,7 +1,7 @@
-# DTF
+# DTF747
 
 **Group members:**
-- Pernille
+- Pernille Hansen
 
 This repository contains  
 1. Inaugural project. 
