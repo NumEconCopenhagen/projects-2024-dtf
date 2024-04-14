@@ -1,14 +1,16 @@
-# Data analysis project
+# Data analysis project - Inflation and the quantity of ecological goods sold in Denmark
 
-Our project is titled **PROJECT TITLE** and is about EXPLAIN.
+The project is titled **Inflaiton and Ecological Goods** and is about how the growth in inflation affects the growth in the quantity of ecological goods sold in Denmark in the period between 2005 and 2022.
 
 The **results** of the project can be seen from running [dataproject.ipynb](dataproject.ipynb).
 
-We apply the **following datasets**:
+I apply the **following datasets** fetched from Statistics Denmark using the API:
 
-1. dataX.csv (*source*) 
-1. dataY.csv (*source*)
+1. PRIS9 
+1. OEK3
 
 **Dependencies:** Apart from a standard Anaconda Python 3 installation, the project requires the following installations:
+``pip install git+https://github.com/alemartinello/dstapi``
 
-``pip install matplotlib-venn``
+The project shows a weak negative correlation between the growth in inflation and the quantity of ecological goods sold in Denmark. 
+
