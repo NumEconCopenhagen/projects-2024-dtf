@@ -10,7 +10,7 @@ I apply the **following datasets** fetched from Statistics Denmark using the API
 1. OEK3
 
 **Dependencies:** Apart from a standard Anaconda Python 3 installation, the project requires the following installations:
-``pip install git+https://github.com/alemartinello/dstapi``
+``pip install git+https://github.com/alemartinello/dstapi`` which is included in code.
 
 The project shows a weak negative correlation between the growth in inflation and the quantity of ecological goods sold in Denmark. 
 
