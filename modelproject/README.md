@@ -1,6 +1,7 @@
-# Model analysis project
+# Solow model with human capital
 
-Our project is titled **PROJECT TITLE** and is about EXPLAIN.
+The project is titled **Solow model with human capital** and presents the solow model with human capital. The project finds the analytical and numerical solution to the model and display the solution in a phase diagram as well as a transition diagram. The project further examines what happens, when a parameter values changes, and how this affect the transition and steady state.
+The model is expanded by including 
 
 The **results** of the project can be seen from running [modelproject.ipynb](modelproject.ipynb).
 
